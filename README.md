@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aumizy
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Python
+- 🌱 I’m currently using JavaScript,Python,React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aumizy01@gmail.com
 
